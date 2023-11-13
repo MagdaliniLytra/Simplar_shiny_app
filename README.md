@@ -15,7 +15,7 @@ Trimming of raw sequences originating from RNA-Seq
 experiments, Alignment to the reference genome,
 Quantification of sequences with subsequent conversion to
 gene expression levels, Differential Expression Analysis (DGEA), and
-Gene Set enrichment Analysis (GSEA).
+Gene Set Enrichment Analysis (GSEA).
 
 The outcomes of these meticulous analyses are formatted to
 meet publication standards and are conveniently accessible to
