@@ -7,7 +7,7 @@ RNA-Seq analyses but exhibiting limited or no proficiency in
 programming.
 
 Simplar is a flexible user-friendly tool for the analysis and visualization
-of gene expression data. Through the graphical user interface (GUI), users are enabled
+of gene expression data. Within the graphical user interface (GUI), users are enabled
 to upload pertinent files, subsequently triggering a series of analytical procedures
 tailored for the examination of data derived from RNA-Seq
 experiments. These sequential analytical steps encompass the
