@@ -26,3 +26,16 @@ It is imperative to note that all the aforementioned processes
 and analyses are meticulously executed within the R
 programming language, utilizing established packages widely
 recognized and endorsed by the research community.
+
+
+Packages
+
+Trimming: Rbowtie2(AdapterRemoval)
+
+Mapping: Rsubread
+
+Quantification: Rsubread(Feature Counts)
+
+Differential Expression: DESeq2
+
+Gene Set Enrichment: AnnotationHub, clusterProfiler
