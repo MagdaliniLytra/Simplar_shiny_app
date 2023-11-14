@@ -28,6 +28,12 @@ programming language, utilizing established packages widely
 recognized and endorsed by the research community.
 
 
+Running the app
+To be able to use the app, users should have pre-installed the R, R studio and R tools to their computers.
+The users have to open the R script “main_script.r” within R studio and press the “Run app” button.
+The app will open either on a new R preview windows or on a new browser window, depending on users’ settings.
+
+
 Packages
 
 Trimming: Rbowtie2(AdapterRemoval)
