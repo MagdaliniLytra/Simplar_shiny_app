@@ -33,7 +33,7 @@ Running the app
 
 To be able to use the app, users should have pre-installed R, R studio and R tools to their computers.
 Users have to download from github the "WWW" folder, the "main_script.r", the "global2v.r", 
-the "Shiny_App_Manual.RMD" and save them in the same folder.
+the "Shiny_App_Manual.RMD" and save them in the same directory.
 The users have to open the R script “main_script.r” within R studio and press the “Run app” button.
 The app will open either on a new R preview windows or on a new browser window, depending on users’ settings.
 
