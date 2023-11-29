@@ -10,8 +10,7 @@ setSliderColor <- function(color, sliderId) {
   stopifnot(is.numeric(sliderId))
   stopifnot(!is.null(sliderId))
   
-  # the css class for ionrangeslider starts from 0
-  # therefore need to remove 1 from sliderId
+  
   sliderId <- sliderId - 1
   
   # create custom css background for each slider
